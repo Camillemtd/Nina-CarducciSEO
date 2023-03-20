@@ -106,6 +106,10 @@ body {
 	color: rgb(0, 0, 0);
 	background-color: #BEB45A;
 	border-radius:0 ;
+	
+}
+
+.nav-link{
 	cursor: pointer;
 }
 .nav-pills .nav-link {
